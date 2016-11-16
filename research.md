@@ -18,6 +18,10 @@ Established 1895
 
 ***Features***
 
+Deposits via Photo
+
+Transfer between accounts
+
 No Minimums
 
 No monthly limit on transfers between accounts
